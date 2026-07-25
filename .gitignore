@@ -1,0 +1,11 @@
+# never commit your key
+.env
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# generated artefacts (regenerate with the scripts)
+data/results.jsonl
+data/exceptions_large.jsonl
+dashboard.html
