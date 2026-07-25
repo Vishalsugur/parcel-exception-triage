@@ -81,7 +81,7 @@ The two remaining misses are genuinely ambiguous, multi-signal messages (a retur
 - **Human in the loop** — replies are *drafted*, never auto-sent, and high-urgency cases are escalated to a person. The system supports operators; it doesn't replace their judgement.
 - **Measured** — volume handled, accuracy/error rate, and time saved are tracked and visualised, not assumed.
 - **Pluggable backend** — Claude and a rule baseline sit behind one interface, so the pipeline is free to develop and it's easy to measure what the LLM adds over rules.
-- **No-code twin** — `docs/make_scenario.md` describes the same workflow built in Make.com, so a non-technical colleague could maintain it.
+
 
 ## Tech
 
